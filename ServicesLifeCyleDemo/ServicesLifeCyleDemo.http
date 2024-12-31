@@ -1,0 +1,6 @@
+@ServicesLifeCyleDemo_HostAddress = http://localhost:5124
+
+GET {{ServicesLifeCyleDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
